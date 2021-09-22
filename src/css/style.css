@@ -1,0 +1,44 @@
+.login-form {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.otp-form {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.signup-form {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.term-condition {
+  color: #07b9fa;
+  cursor: pointer;
+}
+
+Button.btn {
+  background-color: #07b9fa;
+  color: #ecf2fc;
+  text-align: center;
+  font-size: 13px;
+  margin: 20px 2px;
+  border-color: #53d0ff;
+}
+
+Button.btns {
+  background-color: #fafafa;
+  color: #53d0ff;
+  margin: 5px 2px;
+  border-color: #53d0ff;
+}
+
+.banner-block {
+  height: 100%;
+  padding: 4rem;
+  background-color: #cce3ec;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+}
